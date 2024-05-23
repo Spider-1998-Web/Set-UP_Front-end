@@ -1,1 +1,1 @@
-Compleat
+console.log("Javascript connected >>>");
